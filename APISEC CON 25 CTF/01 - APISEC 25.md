@@ -17,5 +17,13 @@ Challenges:
     <a href="https://github.com/L4zyFox/CTFs/blob/main/APISEC%20CON%2025%20CTF/08%20-%20Rate%20My%20API.md" target="_blank">Rate My API</a><br>
 </div>
 
+<br>
+<br>
+
+
+Scoreboard:
+
+<br>
+<br>
 
 ![](imagens/2025-05-24_21-02_1.png)
