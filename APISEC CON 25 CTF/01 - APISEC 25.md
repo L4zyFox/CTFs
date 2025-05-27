@@ -22,8 +22,6 @@ Challenges:
 
 
 Scoreboard:
-
-<br>
 <br>
 
 ![](imagens/2025-05-24_21-02_1.png)
